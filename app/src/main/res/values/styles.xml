@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarSize">45dip</item>
+    </style>
+
+    <style name="CommonTextStyle">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#0b0b0b</item>
+    </style>
+
+    <style name="RedTextStyle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#fe4343</item>
+    </style>
+
+    <style name="WhiteTextStyle">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#f2feff</item>
+    </style>
+
+    <style name="CrowdfundingTypeTextStyle">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#fff3f3</item>
+        <item name="android:background">#fe4343</item>
+        <item name="android:padding">3dp</item>
+    </style>
+</resources>

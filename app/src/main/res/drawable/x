@@ -1,0 +1,16 @@
+add("",BitmapId.star_dengziqi);
+add("",BitmapId.start_songzhixiao);
+add("",BitmapId.star_ wuyifan);
+add("",BitmapId.star_puxinhui);
+add("",BitmapId.star_zhoujielun);
+add("",BitmapId.star_liminhao);
+add("",BitmapId.star_lizhunji);
+add("",BitmapId.star_luhan);
+add("",BitmapId.star_zhanggenshuo);
+add("",BitmapId.star_puyoutian);
+add("",BitmapId.star_lizhongshuo);
+add("",BitmapId.star_bigbang);
+add("",BitmapId.star_zhangyixing);
+add("",BitmapId.star_songchegnxian);
+add("",BitmapId.star_songhuiqiao);
+add("",BitmapId.star_liyifeng);

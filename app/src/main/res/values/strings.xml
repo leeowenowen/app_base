@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fentuan_app_name">粉团</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="studio_right_button_text">星话主持</string>
+    <string name="photo">照片</string>
+    <string name="hint_publish_today_topic">#说个话题吧,140字以内</string>
+    <string name="title_activity_paid_bao_tuan_home">PaidBaoTuanHomeActivity</string>
+    <string name="title_activity_pay_page">PayPageActivity</string>
+
+</resources>
